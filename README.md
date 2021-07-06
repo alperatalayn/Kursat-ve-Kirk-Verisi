@@ -1,2 +1,2 @@
-# K-r-at-ve-K-rk-Verisi
+# Kursat ve Kirk Verisi
 Kürşat ve Kırk Verisi
